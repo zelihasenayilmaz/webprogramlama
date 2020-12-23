@@ -1,12 +1,15 @@
 # **https://www.netflix.com/ frontend yeniden birebir tasarımı**
-BS435 Web Programlama 1 Dersi Vize Ödevi
-Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü
+## BS435 Web Programlama 1 Dersi Vize Ödevi  
+**Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü**  
 Tasarlayan: Zeliha Sena Yılmaz Öğretim Üyesi: Dr. Fehim KÖYLÜ
 
 ## Dosyalar
 * style.css  
 * hakkimda.html  
-* home.html
+* home.html  
+* bootstrap.min.css  
+* bootstrap.min.js  
+* jquery.js
 ## Kullanılan Araçlar
 * HTML5  
 * CSS3  
