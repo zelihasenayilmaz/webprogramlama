@@ -1,4 +1,4 @@
-# https://www.netflix.com/ frontend yeniden birebir tasarımı
+# **https://www.netflix.com/ frontend yeniden birebir tasarımı**
 BS435 Web Programlama 1 Dersi Vize Ödevi
 Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü
 Tasarlayan: Zeliha Sena Yılmaz Öğretim Üyesi: Dr. Fehim KÖYLÜ
