@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+body{
+    background-color: #000;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+/*custom button*/
+.btn-custom-danger{
+    background-color: #e50914;
+    color: #fff;
+}
+.btn-custom-danger:hover{
+    background-color: red;
+    color: #fff;
+}
+/*başlık*/
+
+header{
+    background-image: url('../image/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 750px;
+    border-bottom: 8px solid #222222;
+}
+
+header .logo{
+    height: 100px;
+}
+header h1{
+    color: #fff;
+    font-size: 55px;
+    font-weight: 700;
+    margin-top: 240px;
+}
+header h2{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 400;
+}
+header h3{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 300;
+}
+header input{
+    height: 65px;
+}
+header form .btn-custom-danger{
+    height: 65px;
+    font-size: 25px;
+}
+
+/* story container*/
+.story-container{
+    border-bottom: 8px solid #222222;
+}
+.story-container h1{
+    color: #fff;
+    font-size: 55px;
+    font-weight: 700;
+}
+.story-container h2{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 400;
+}
+.story-container img{
+    width: 100%;
+    height: 100%;
+}
+/* sss */
+.sss{
+    padding: 50px 0;
+}
+.sss h1{
+    font-size: 3.125rem;
+    font-weight: 700;
+    color: #fff;
+} 
+ .sss .card{
+        background-color: #303030;
+        color: #fff;
+}
+.sss .btn-link{
+    color: #fff;
+}
+/*mail*/
+.mail form .btn-custom-danger{
+    height: 65px;
+    font-size: 25px;
+}
+.mail{
+    border-bottom: 8px solid #222222;
+}
+.mail h1{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+}
+footer{
+    color: #757575;
+}
+footer ul li{
+    font-size: 14px
+}
